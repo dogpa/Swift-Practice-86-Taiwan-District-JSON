@@ -13,6 +13,8 @@
 		2D5976C727097CA90051C97E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D5976C527097CA90051C97E /* Main.storyboard */; };
 		2D5976C927097CA90051C97E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D5976C827097CA90051C97E /* Assets.xcassets */; };
 		2D5976CC27097CA90051C97E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D5976CA27097CA90051C97E /* LaunchScreen.storyboard */; };
+		2D5976D427098A1A0051C97E /* TaiwanDist JSON Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D5976D327098A1A0051C97E /* TaiwanDist JSON Type.swift */; };
+		2D5976D6270993A00051C97E /* UseTextFieldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D5976D5270993A00051C97E /* UseTextFieldViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		2D5976C827097CA90051C97E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D5976CB27097CA90051C97E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D5976CD27097CA90051C97E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D5976D327098A1A0051C97E /* TaiwanDist JSON Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TaiwanDist JSON Type.swift"; sourceTree = "<group>"; };
+		2D5976D5270993A00051C97E /* UseTextFieldViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseTextFieldViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +62,10 @@
 			children = (
 				2D5976BF27097CA90051C97E /* AppDelegate.swift */,
 				2D5976C127097CA90051C97E /* SceneDelegate.swift */,
-				2D5976C327097CA90051C97E /* ViewController.swift */,
 				2D5976C527097CA90051C97E /* Main.storyboard */,
+				2D5976D327098A1A0051C97E /* TaiwanDist JSON Type.swift */,
+				2D5976C327097CA90051C97E /* ViewController.swift */,
+				2D5976D5270993A00051C97E /* UseTextFieldViewController.swift */,
 				2D5976C827097CA90051C97E /* Assets.xcassets */,
 				2D5976CA27097CA90051C97E /* LaunchScreen.storyboard */,
 				2D5976CD27097CA90051C97E /* Info.plist */,
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2D5976C427097CA90051C97E /* ViewController.swift in Sources */,
+				2D5976D6270993A00051C97E /* UseTextFieldViewController.swift in Sources */,
+				2D5976D427098A1A0051C97E /* TaiwanDist JSON Type.swift in Sources */,
 				2D5976C027097CA90051C97E /* AppDelegate.swift in Sources */,
 				2D5976C227097CA90051C97E /* SceneDelegate.swift in Sources */,
 			);

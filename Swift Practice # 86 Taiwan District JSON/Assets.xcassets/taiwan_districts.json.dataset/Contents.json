@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "taiwan_districts.json.txt",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
